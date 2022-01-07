@@ -18,7 +18,9 @@
     "react-native": "0.64.3",
     "react-native-web": "0.17.1",
     "react-router-dom": "^6.2.1",
-    "web-vitals": "^2.1.2"
+    "web-vitals": "^2.1.2",
+    "yarn": "^1.22.17",
+    "yarn.lock": "0.0.1-security"
   },
   "scripts": {
     "start": "react-scripts start",
